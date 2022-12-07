@@ -1,0 +1,13 @@
+.butt1 {
+    background-color: black;
+    color: white;
+}
+
+.butt2 {
+    background-color: yellow;
+}
+
+.butt1, .butt2 {
+    font-size: 28px;
+    font-family: "Times New Roman", sans-serif;
+}
